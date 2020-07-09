@@ -1,0 +1,1 @@
+export const BlogSlugToUrl=(Slug)=>`/blogs/${Slug}`

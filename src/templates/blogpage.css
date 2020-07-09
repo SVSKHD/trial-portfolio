@@ -1,0 +1,30 @@
+.title{
+    font-size: 5rem ;
+}
+.subtitle{
+    font-size: 2.5rem;
+}
+.content{
+    font-family: Helvetica;
+}
+.blogstart{
+    margin-top: 6rem;
+}
+.blogenddiv{
+    padding: 5rem 5rem;
+}
+
+.blogendintro{
+    font-size: 2.5rem;
+    font-family: Helvetica;
+    font-weight: bolder;
+    color: #4a3f35;
+}
+.blogend{
+    font-size: 5rem;
+    font-family: Masque;
+    color: #05b905;
+}
+.share{
+    margin-top: 3rem;
+}

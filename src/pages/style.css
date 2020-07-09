@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+.mr-auto{
+    font-size: 1.8rem;
+    font-family: Masque;
+    color:#05b905;
+}
+h5{
+    color: #6c6c6c;
+    font-family: Helvetica;
+    font-weight: bolder;
+}
+.Type{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+.display-3{
+    font-family: Masque;
+    color:#05b905;
+}
+.FST{
+    margin:0.1rem;
+}
