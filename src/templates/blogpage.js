@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout  from "../components/layouts/layout"
 import Seo from "../components/seo"
-import {Jumbotron,Container,Row,Col} from "reactstrap"
+import {Container,Row,Col} from "reactstrap"
 import "./blogpage.css"
 import Img from "gatsby-image"
 import Collapsy from "../components/collapse"

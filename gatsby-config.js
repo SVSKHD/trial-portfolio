@@ -12,7 +12,7 @@ module.exports = {
     {
       resolve: `gatsby-source-strapi`,
       options: {
-      apiURL: `http://localhost:1337`,
+      apiURL: `https://strapi-trial-1.herokuapp.com/`,
       queryLimit: 10000, // Default to 100
       contentTypes: [`blogs`],
     },
